@@ -197,8 +197,6 @@ def main(genomas, config):  # fitness function
             passaros.append(Passaro(230, 350))
     else:
         passaros = [Passaro(230, 350)]
-
-    passaros = [Passaro(230, 350)]
     chao = Chao(730)
     canos = [Cano(700)]
     tela = pygame.display.set_mode((TELA_LARGURA, TELA_ALTURA))
