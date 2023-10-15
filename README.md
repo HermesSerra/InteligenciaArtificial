@@ -1,4 +1,4 @@
-#### **Projeto FlappyBird com Inteligência Artificial**
+# **Projeto FlappyBird com Inteligência Artificial**
 
 Este projeto é uma implementação do famoso jogo Flappy Bird com uma reviravolta emocionante - uma inteligência artificial (IA) treinada para jogar o jogo e melhorar seu desempenho a cada geração. O objetivo principal é criar um agente IA capaz de atingir a pontuação de 1000 pontos no Flappy Bird.
 
